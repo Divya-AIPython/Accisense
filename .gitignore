@@ -1,0 +1,11 @@
+models/
+data/
+
+__pycache__/
+*.pyc
+
+alert_trigger.txt
+app
+
+config/accisense_state.json
+config/last_alert.json

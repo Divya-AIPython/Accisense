@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+easyocr
+fastapi
+uvicorn
+requests
+numpy

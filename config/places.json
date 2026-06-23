@@ -1,0 +1,10 @@
+{
+  "hospitals": [
+    { "name": "Apollo Hospital", "lat": 13.0605, "lon": 80.2496, "phone": "+91XXXXXXXXXX" },
+    { "name": "Government Hospital", "lat": 13.0878, "lon": 80.2785, "phone": "+91XXXXXXXXXX" }
+  ],
+  "police": [
+    { "name": "T Nagar Police Station", "lat": 13.0425, "lon": 80.2337, "phone": "+91XXXXXXXXXX" },
+    { "name": "Egmore Police Station", "lat": 13.0792, "lon": 80.2617, "phone": "+91XXXXXXXXXX" }
+  ]
+}
