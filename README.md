@@ -2,9 +2,7 @@
 
 ## Overview
 
-AcciSense is an AI-powered real-time road accident detection and emergency alert generation system that utilizes existing CCTV surveillance cameras to monitor roads, highways, residential areas, and public spaces.
-
-The system automatically detects road accidents using deep learning models, extracts vehicle number plate information, and generates instant emergency alerts to nearby hospitals and police stations. By eliminating the dependency on manual reporting, AcciSense significantly reduces emergency response time and improves public safety.
+AcciSense is an AI-powered road accident detection and emergency alert generation system developed as a proof of concept. The system uses deep learning models to analyze prerecorded traffic videos that simulate CCTV footage, automatically detect road accidents, extract vehicle number plate information, and generate emergency alerts for nearby hospitals and police stations. The project demonstrates how AI can automate accident detection and emergency response when integrated with live surveillance systems, reducing dependency on manual reporting and showcasing its potential to improve emergency response time and public safety.
 
 
 ## Problem Statement
